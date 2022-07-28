@@ -1,0 +1,60 @@
+.MuiDropzoneArea-root {
+	border: 0.8px dashed #ebebeb !important;
+	background: #fafafa !important;
+}
+.MuiTypography-h5 {
+	margin-top: 50px !important;
+	color: grey;
+	font-size: 14px !important;
+	font-weight: 700 !important;
+	line-height: 19.6px;
+}
+.info-messages {
+	position: absolute;
+	top: 150px;
+	left: 78px;
+}
+.support-msg {
+	font-size: 12px;
+	color: grey;
+	font-weight: 600;
+	&:nth-child(2) {
+		line-height: 0px;
+	}
+}
+.upload-btn {
+	text-transform: none !important;
+	padding: 10px 58px !important;
+}
+.info-btn {
+	position: absolute;
+	top: 170px;
+	left: 89px;
+}
+.save-btn {
+	padding: 10px 55px !important;
+	background-color: #E6F3FF !important;
+	color: #0056B8 !important;
+	box-shadow: none !important;
+	text-transform: none !important;
+	font-weight: 600 !important;
+}
+.on-file-drop {
+	box-shadow: 5px 5px 10px grey !important;
+}
+.add-more-btn {
+	padding: 10px 144px !important;
+	background-color: #E6F3FF !important;
+	color: #0056B8 !important;
+	box-shadow: none !important;
+	text-transform: none !important;
+	font-weight: 600 !important;
+	// position: absolute !important;
+	// top: 0px !important;
+	// left: 0px !important;
+	margin-bottom: 100px;
+}
+.drop-base-button {
+	width: 425px !important;
+	min-height: 0px !important;
+}
